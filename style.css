@@ -119,8 +119,6 @@ header a:hover {
 }
 
 #examples {
-    border: solid 2px black;
-    border-radius: 4px;
     margin: 0 auto;
     font-size: 1em;
     border-spacing: 0.1cm;
@@ -132,8 +130,9 @@ header a:hover {
 }
 
 #examples td {
+    color: white;
     text-align: left;
-    background: white;
+    background: black;
     vertical-align: top;
     border: solid 2px black;
     border-radius: 4px;
